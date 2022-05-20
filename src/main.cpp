@@ -1,4 +1,5 @@
 #include <Arduino.h>
+//programa para probar funcionamiento del sensor temp humd
 
 // DHT Temperature & Humidity Sensor
 // Unified Sensor Library Example
