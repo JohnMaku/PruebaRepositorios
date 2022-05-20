@@ -1,5 +1,5 @@
 #include <Arduino.h>
-//programa para probar funcionamiento del sensor temp humd
+//programa para probar funcionamiento del sensor temp humd.
 //prueba para github.
 //prueba salvando cambios.
 // DHT Temperature & Humidity Sensor
